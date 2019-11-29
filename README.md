@@ -7,5 +7,7 @@ This version can use a list of keywords hardcoded in the script, it can read fro
 
 I currently use a list of hardcoded changes as that was the original design and the extensions for other people.
 
+You should be able to add this script to the cron and just have it run.
+
 Thanks
 
